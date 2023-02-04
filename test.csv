@@ -1,0 +1,300 @@
+path,type,diagnose
+./Brain scans\Tumor\TEST\y701.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y702.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y703.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y704.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y705.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y706.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y707.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y708.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y709.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y710.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y711.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y712.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y713.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y714.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y715.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y716.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y717.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y718.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y719.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y720.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y721.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y722.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y723.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y724.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y725.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y726.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y727.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y728.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y729.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y730.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y731.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y732.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y733.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y734.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y735.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y736.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y737.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y738.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y739.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y740.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y741.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y742.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y743.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y744.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y745.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y746.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y747.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y748.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y749.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y750.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y751.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y752.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y753.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y754.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y755.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y756.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y757.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y758.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y759.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y760.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y761.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y762.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y763.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y764.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y765.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y766.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y767.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y768.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y769.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y770.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y771.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y772.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y773.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y774.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y775.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y776.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y777.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y778.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y779.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y780.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y781.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y782.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y783.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y784.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y785.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y786.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y787.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y788.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y789.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y790.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y791.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y792.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y793.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y794.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y795.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y796.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y797.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y798.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y799.jpg,brain,tumor
+./Brain scans\Tumor\TEST\y800.jpg,brain,tumor
+./Brain scans/No tumor\Test\no501.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no502.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no503.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no504.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no505.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no506.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no507.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no508.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no509.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no510.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no511.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no512.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no513.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no514.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no515.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no516.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no517.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no518.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no519.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no520.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no521.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no522.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no523.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no524.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no525.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no526.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no527.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no528.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no529.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no530.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no531.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no532.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no533.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no534.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no535.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no536.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no537.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no538.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no539.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no540.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no541.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no542.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no543.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no544.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no545.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no546.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no547.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no548.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no549.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no550.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no551.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no552.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no553.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no554.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no555.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no556.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no557.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no558.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no559.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no560.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no561.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no562.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no563.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no564.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no565.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no566.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no567.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no568.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no569.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no570.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no571.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no572.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no573.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no574.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no575.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no576.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no577.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no578.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no579.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no580.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no581.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no582.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no583.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no584.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no585.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no586.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no587.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no588.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no589.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no590.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no591.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no592.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no593.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no594.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no595.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no596.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no597.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no598.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no599.jpg,brain,no tumor
+./Brain scans/No tumor\Test\no600.jpg,brain,no tumor
+./Breast scans\benign\Test\benign (399).png,breast,benign
+./Breast scans\benign\Test\benign (400).png,breast,benign
+./Breast scans\benign\Test\benign (401).png,breast,benign
+./Breast scans\benign\Test\benign (402).png,breast,benign
+./Breast scans\benign\Test\benign (403).png,breast,benign
+./Breast scans\benign\Test\benign (404).png,breast,benign
+./Breast scans\benign\Test\benign (405).png,breast,benign
+./Breast scans\benign\Test\benign (406).png,breast,benign
+./Breast scans\benign\Test\benign (407).png,breast,benign
+./Breast scans\benign\Test\benign (408).png,breast,benign
+./Breast scans\benign\Test\benign (409).png,breast,benign
+./Breast scans\benign\Test\benign (410).png,breast,benign
+./Breast scans\benign\Test\benign (411).png,breast,benign
+./Breast scans\benign\Test\benign (412).png,breast,benign
+./Breast scans\benign\Test\benign (413).png,breast,benign
+./Breast scans\benign\Test\benign (414).png,breast,benign
+./Breast scans\benign\Test\benign (415).png,breast,benign
+./Breast scans\benign\Test\benign (416).png,breast,benign
+./Breast scans\benign\Test\benign (417).png,breast,benign
+./Breast scans\benign\Test\benign (418).png,breast,benign
+./Breast scans\benign\Test\benign (419).png,breast,benign
+./Breast scans\benign\Test\benign (420).png,breast,benign
+./Breast scans\benign\Test\benign (421).png,breast,benign
+./Breast scans\benign\Test\benign (422).png,breast,benign
+./Breast scans\benign\Test\benign (423).png,breast,benign
+./Breast scans\benign\Test\benign (424).png,breast,benign
+./Breast scans\benign\Test\benign (425).png,breast,benign
+./Breast scans\benign\Test\benign (426).png,breast,benign
+./Breast scans\benign\Test\benign (427).png,breast,benign
+./Breast scans\benign\Test\benign (428).png,breast,benign
+./Breast scans\benign\Test\benign (429).png,breast,benign
+./Breast scans\benign\Test\benign (430).png,breast,benign
+./Breast scans\benign\Test\benign (431).png,breast,benign
+./Breast scans\benign\Test\benign (432).png,breast,benign
+./Breast scans\benign\Test\benign (433).png,breast,benign
+./Breast scans\benign\Test\benign (434).png,breast,benign
+./Breast scans\benign\Test\benign (435).png,breast,benign
+./Breast scans\benign\Test\benign (436).png,breast,benign
+./Breast scans\benign\Test\benign (437).png,breast,benign
+./Breast scans\malignant\Test\malignant (181).png,breast,malignant
+./Breast scans\malignant\Test\malignant (182).png,breast,malignant
+./Breast scans\malignant\Test\malignant (183).png,breast,malignant
+./Breast scans\malignant\Test\malignant (184).png,breast,malignant
+./Breast scans\malignant\Test\malignant (185).png,breast,malignant
+./Breast scans\malignant\Test\malignant (186).png,breast,malignant
+./Breast scans\malignant\Test\malignant (187).png,breast,malignant
+./Breast scans\malignant\Test\malignant (188).png,breast,malignant
+./Breast scans\malignant\Test\malignant (189).png,breast,malignant
+./Breast scans\malignant\Test\malignant (190).png,breast,malignant
+./Breast scans\malignant\Test\malignant (191).png,breast,malignant
+./Breast scans\malignant\Test\malignant (192).png,breast,malignant
+./Breast scans\malignant\Test\malignant (193).png,breast,malignant
+./Breast scans\malignant\Test\malignant (194).png,breast,malignant
+./Breast scans\malignant\Test\malignant (195).png,breast,malignant
+./Breast scans\malignant\Test\malignant (196).png,breast,malignant
+./Breast scans\malignant\Test\malignant (197).png,breast,malignant
+./Breast scans\malignant\Test\malignant (198).png,breast,malignant
+./Breast scans\malignant\Test\malignant (199).png,breast,malignant
+./Breast scans\malignant\Test\malignant (200).png,breast,malignant
+./Breast scans\malignant\Test\malignant (201).png,breast,malignant
+./Breast scans\malignant\Test\malignant (202).png,breast,malignant
+./Breast scans\malignant\Test\malignant (203).png,breast,malignant
+./Breast scans\malignant\Test\malignant (204).png,breast,malignant
+./Breast scans\malignant\Test\malignant (205).png,breast,malignant
+./Breast scans\malignant\Test\malignant (206).png,breast,malignant
+./Breast scans\malignant\Test\malignant (207).png,breast,malignant
+./Breast scans\malignant\Test\malignant (208).png,breast,malignant
+./Breast scans\malignant\Test\malignant (209).png,breast,malignant
+./Breast scans\malignant\Test\malignant (210).png,breast,malignant
+./Breast scans/normal\Test\normal (104).png,breast,normal
+./Breast scans/normal\Test\normal (105).png,breast,normal
+./Breast scans/normal\Test\normal (106).png,breast,normal
+./Breast scans/normal\Test\normal (107).png,breast,normal
+./Breast scans/normal\Test\normal (108).png,breast,normal
+./Breast scans/normal\Test\normal (109).png,breast,normal
+./Breast scans/normal\Test\normal (110).png,breast,normal
+./Breast scans/normal\Test\normal (111).png,breast,normal
+./Breast scans/normal\Test\normal (112).png,breast,normal
+./Breast scans/normal\Test\normal (113).png,breast,normal
+./Breast scans/normal\Test\normal (114).png,breast,normal
+./Breast scans/normal\Test\normal (115).png,breast,normal
+./Breast scans/normal\Test\normal (116).png,breast,normal
+./Breast scans/normal\Test\normal (117).png,breast,normal
+./Breast scans/normal\Test\normal (118).png,breast,normal
+./Breast scans/normal\Test\normal (119).png,breast,normal
+./Breast scans/normal\Test\normal (120).png,breast,normal
+./Breast scans/normal\Test\normal (121).png,breast,normal
+./Breast scans/normal\Test\normal (122).png,breast,normal
+./Breast scans/normal\Test\normal (123).png,breast,normal
+./Breast scans/normal\Test\normal (124).png,breast,normal
+./Breast scans/normal\Test\normal (125).png,breast,normal
+./Breast scans/normal\Test\normal (126).png,breast,normal
+./Breast scans/normal\Test\normal (127).png,breast,normal
+./Breast scans/normal\Test\normal (128).png,breast,normal
+./Breast scans/normal\Test\normal (129).png,breast,normal
+./Breast scans/normal\Test\normal (130).png,breast,normal
+./Breast scans/normal\Test\normal (131).png,breast,normal
+./Breast scans/normal\Test\normal (132).png,breast,normal
+./Breast scans/normal\Test\normal (133).png,breast,normal

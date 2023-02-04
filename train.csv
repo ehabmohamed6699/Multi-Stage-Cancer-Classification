@@ -1,0 +1,1683 @@
+path,type,diagnose
+./Brain scans\Tumor\TRAIN\y0.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y1.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y10.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y100.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y101.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y102.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y103.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y104.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y105.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y106.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y107.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y108.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y109.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y11.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y110.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y111.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y112.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y113.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y114.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y115.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y116.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y117.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y118.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y119.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y12.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y120.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y121.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y122.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y123.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y124.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y125.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y126.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y127.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y128.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y129.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y13.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y130.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y131.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y132.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y133.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y134.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y135.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y136.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y137.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y138.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y139.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y14.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y140.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y141.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y142.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y143.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y144.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y145.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y146.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y147.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y148.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y149.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y15.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y150.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y151.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y152.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y153.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y154.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y155.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y156.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y157.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y158.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y159.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y16.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y160.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y161.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y162.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y163.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y164.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y165.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y166.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y167.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y168.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y169.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y17.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y170.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y171.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y172.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y173.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y174.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y175.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y176.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y177.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y178.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y179.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y18.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y180.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y181.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y182.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y183.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y184.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y185.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y186.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y187.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y188.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y189.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y19.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y190.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y191.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y192.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y193.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y194.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y195.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y196.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y197.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y198.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y199.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y2.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y20.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y200.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y201.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y202.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y203.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y204.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y205.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y206.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y207.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y208.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y209.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y21.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y210.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y211.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y212.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y213.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y214.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y215.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y216.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y217.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y218.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y219.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y22.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y220.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y221.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y222.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y223.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y224.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y225.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y226.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y227.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y228.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y229.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y23.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y230.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y231.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y232.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y233.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y234.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y235.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y236.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y237.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y238.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y239.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y24.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y240.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y241.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y242.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y243.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y244.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y245.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y246.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y247.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y248.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y249.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y25.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y250.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y251.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y252.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y253.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y254.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y255.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y256.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y257.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y258.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y259.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y26.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y260.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y261.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y262.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y263.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y264.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y265.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y266.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y267.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y268.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y269.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y27.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y270.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y271.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y272.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y273.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y274.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y275.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y276.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y277.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y278.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y279.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y28.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y280.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y281.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y282.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y283.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y284.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y285.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y286.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y287.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y288.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y289.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y29.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y290.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y291.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y292.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y293.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y294.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y295.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y296.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y297.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y298.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y299.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y3.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y30.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y300.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y301.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y302.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y303.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y304.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y305.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y306.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y307.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y308.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y309.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y31.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y310.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y311.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y312.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y313.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y314.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y315.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y316.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y317.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y318.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y319.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y32.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y320.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y321.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y322.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y323.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y324.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y325.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y326.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y327.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y328.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y329.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y33.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y330.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y331.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y332.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y333.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y334.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y335.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y336.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y337.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y338.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y339.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y34.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y340.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y341.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y342.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y343.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y344.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y345.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y346.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y347.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y348.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y349.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y35.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y350.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y351.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y352.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y353.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y354.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y355.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y356.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y357.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y358.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y359.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y36.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y360.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y361.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y362.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y363.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y364.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y365.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y366.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y367.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y368.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y369.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y37.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y370.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y371.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y372.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y373.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y374.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y375.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y376.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y377.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y378.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y379.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y38.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y380.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y381.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y382.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y383.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y384.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y385.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y386.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y387.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y388.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y389.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y39.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y390.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y391.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y392.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y393.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y394.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y395.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y396.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y397.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y398.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y399.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y4.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y40.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y400.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y401.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y402.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y403.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y404.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y405.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y406.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y407.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y408.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y409.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y41.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y410.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y411.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y412.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y413.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y414.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y415.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y416.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y417.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y418.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y419.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y42.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y420.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y421.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y422.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y423.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y424.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y425.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y426.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y427.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y428.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y429.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y43.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y430.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y431.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y432.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y433.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y434.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y435.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y436.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y437.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y438.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y439.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y44.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y440.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y441.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y442.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y443.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y444.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y445.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y446.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y447.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y448.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y449.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y45.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y450.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y451.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y452.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y453.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y454.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y455.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y456.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y457.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y458.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y459.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y46.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y460.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y461.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y462.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y463.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y464.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y465.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y466.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y467.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y468.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y469.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y47.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y470.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y471.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y472.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y473.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y474.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y475.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y476.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y477.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y478.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y479.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y48.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y480.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y481.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y482.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y483.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y484.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y485.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y486.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y487.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y488.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y489.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y49.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y490.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y491.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y492.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y493.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y494.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y495.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y496.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y497.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y498.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y499.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y5.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y50.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y51.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y52.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y53.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y54.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y55.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y56.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y57.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y58.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y59.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y6.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y60.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y61.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y62.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y63.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y64.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y65.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y66.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y67.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y68.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y69.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y7.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y70.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y71.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y72.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y73.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y74.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y75.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y76.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y77.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y78.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y79.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y8.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y80.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y81.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y82.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y83.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y84.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y85.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y86.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y87.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y88.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y89.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y9.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y90.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y91.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y92.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y93.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y94.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y95.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y96.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y97.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y98.jpg,brain,tumor
+./Brain scans\Tumor\TRAIN\y99.jpg,brain,tumor
+./Brain scans/No tumor\Train\no0.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no1.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no10.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no100.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no101.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no102.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no103.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no104.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no105.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no106.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no107.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no108.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no109.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no11.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no110.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no111.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no112.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no113.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no114.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no115.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no116.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no117.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no118.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no119.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No12.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no120.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no121.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no122.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no123.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no124.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no125.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no126.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no127.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no128.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no129.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No13.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no130.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no131.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no132.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no133.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no134.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no135.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no136.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no137.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no138.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no139.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No14.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no140.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no141.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no142.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no143.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no144.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no145.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no146.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no147.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no148.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no149.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No15.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no150.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no151.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no152.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no153.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no154.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no155.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no156.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no157.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no158.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no159.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no16.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no160.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no161.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no162.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no163.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no164.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no165.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no166.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no167.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no168.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no169.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No17.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no170.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no171.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no172.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no173.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no174.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no175.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no176.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no177.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no178.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no179.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No18.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no180.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no181.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no182.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no183.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no184.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no185.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no186.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no187.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no188.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no189.jpg,brain,no tumor
+./Brain scans/No tumor\Train\No19.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no190.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no191.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no192.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no193.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no194.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no195.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no196.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no197.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no198.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no199.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no2.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no20.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no200.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no201.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no202.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no203.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no204.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no205.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no206.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no207.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no208.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no209.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no21.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no210.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no211.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no212.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no213.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no214.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no215.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no216.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no217.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no218.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no219.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no22.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no220.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no221.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no222.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no223.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no224.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no225.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no226.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no227.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no228.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no229.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no23.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no230.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no231.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no232.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no233.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no234.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no235.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no236.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no237.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no238.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no239.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no24.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no240.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no241.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no242.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no243.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no244.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no245.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no246.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no247.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no248.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no249.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no25.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no250.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no251.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no252.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no253.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no254.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no255.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no256.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no257.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no258.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no259.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no26.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no260.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no261.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no262.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no263.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no264.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no265.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no266.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no267.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no268.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no269.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no27.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no270.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no271.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no272.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no273.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no274.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no275.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no276.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no277.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no278.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no279.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no28.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no280.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no281.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no282.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no283.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no284.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no285.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no286.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no287.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no288.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no289.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no29.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no290.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no291.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no292.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no293.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no294.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no295.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no296.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no297.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no298.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no299.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no3.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no30.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no300.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no301.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no302.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no303.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no304.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no305.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no306.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no307.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no308.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no309.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no31.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no310.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no311.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no312.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no313.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no314.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no315.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no316.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no317.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no318.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no319.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no32.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no320.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no321.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no322.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no323.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no324.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no325.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no326.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no327.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no328.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no329.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no33.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no330.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no331.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no332.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no333.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no334.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no335.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no336.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no337.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no338.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no339.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no34.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no340.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no341.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no342.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no343.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no344.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no345.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no346.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no347.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no348.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no349.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no35.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no350.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no351.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no352.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no353.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no354.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no355.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no356.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no357.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no358.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no359.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no36.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no360.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no361.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no362.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no363.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no364.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no365.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no366.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no367.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no368.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no369.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no37.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no370.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no371.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no372.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no373.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no374.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no375.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no376.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no377.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no378.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no379.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no38.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no380.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no381.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no382.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no383.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no384.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no385.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no386.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no387.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no388.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no389.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no39.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no390.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no391.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no392.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no393.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no394.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no395.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no396.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no397.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no398.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no399.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no4.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no40.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no400.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no401.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no402.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no403.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no404.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no405.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no406.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no407.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no408.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no409.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no41.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no410.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no411.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no412.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no413.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no414.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no415.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no416.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no417.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no418.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no419.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no42.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no420.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no421.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no422.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no423.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no424.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no425.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no426.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no427.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no428.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no429.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no43.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no430.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no431.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no432.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no433.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no434.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no435.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no436.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no437.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no438.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no439.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no44.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no440.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no441.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no442.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no443.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no444.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no445.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no446.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no447.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no448.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no449.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no45.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no450.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no451.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no452.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no453.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no454.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no455.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no456.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no457.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no458.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no459.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no46.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no460.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no461.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no462.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no463.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no464.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no465.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no466.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no467.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no468.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no469.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no47.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no470.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no471.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no472.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no473.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no474.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no475.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no476.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no477.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no478.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no479.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no48.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no480.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no481.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no482.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no483.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no484.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no485.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no486.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no487.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no488.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no489.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no49.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no490.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no491.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no492.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no493.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no494.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no495.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no496.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no497.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no498.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no499.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no5.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no50.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no500.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no51.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no52.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no53.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no54.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no55.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no56.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no57.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no58.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no59.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no6.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no60.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no61.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no62.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no63.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no64.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no65.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no66.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no67.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no68.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no69.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no7.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no70.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no71.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no72.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no73.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no74.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no75.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no76.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no77.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no78.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no79.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no8.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no80.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no81.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no82.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no83.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no84.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no85.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no86.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no87.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no88.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no89.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no9.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no90.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no91.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no92.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no93.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no94.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no95.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no96.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no97.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no98.jpg,brain,no tumor
+./Brain scans/No tumor\Train\no99.jpg,brain,no tumor
+./Breast scans\benign\Train\benign (1).png,breast,benign
+./Breast scans\benign\Train\benign (10).png,breast,benign
+./Breast scans\benign\Train\benign (100).png,breast,benign
+./Breast scans\benign\Train\benign (101).png,breast,benign
+./Breast scans\benign\Train\benign (102).png,breast,benign
+./Breast scans\benign\Train\benign (103).png,breast,benign
+./Breast scans\benign\Train\benign (104).png,breast,benign
+./Breast scans\benign\Train\benign (105).png,breast,benign
+./Breast scans\benign\Train\benign (106).png,breast,benign
+./Breast scans\benign\Train\benign (107).png,breast,benign
+./Breast scans\benign\Train\benign (108).png,breast,benign
+./Breast scans\benign\Train\benign (109).png,breast,benign
+./Breast scans\benign\Train\benign (11).png,breast,benign
+./Breast scans\benign\Train\benign (110).png,breast,benign
+./Breast scans\benign\Train\benign (111).png,breast,benign
+./Breast scans\benign\Train\benign (112).png,breast,benign
+./Breast scans\benign\Train\benign (113).png,breast,benign
+./Breast scans\benign\Train\benign (114).png,breast,benign
+./Breast scans\benign\Train\benign (115).png,breast,benign
+./Breast scans\benign\Train\benign (116).png,breast,benign
+./Breast scans\benign\Train\benign (117).png,breast,benign
+./Breast scans\benign\Train\benign (118).png,breast,benign
+./Breast scans\benign\Train\benign (119).png,breast,benign
+./Breast scans\benign\Train\benign (12).png,breast,benign
+./Breast scans\benign\Train\benign (120).png,breast,benign
+./Breast scans\benign\Train\benign (121).png,breast,benign
+./Breast scans\benign\Train\benign (122).png,breast,benign
+./Breast scans\benign\Train\benign (123).png,breast,benign
+./Breast scans\benign\Train\benign (124).png,breast,benign
+./Breast scans\benign\Train\benign (125).png,breast,benign
+./Breast scans\benign\Train\benign (126).png,breast,benign
+./Breast scans\benign\Train\benign (127).png,breast,benign
+./Breast scans\benign\Train\benign (128).png,breast,benign
+./Breast scans\benign\Train\benign (129).png,breast,benign
+./Breast scans\benign\Train\benign (13).png,breast,benign
+./Breast scans\benign\Train\benign (130).png,breast,benign
+./Breast scans\benign\Train\benign (131).png,breast,benign
+./Breast scans\benign\Train\benign (132).png,breast,benign
+./Breast scans\benign\Train\benign (133).png,breast,benign
+./Breast scans\benign\Train\benign (134).png,breast,benign
+./Breast scans\benign\Train\benign (135).png,breast,benign
+./Breast scans\benign\Train\benign (136).png,breast,benign
+./Breast scans\benign\Train\benign (137).png,breast,benign
+./Breast scans\benign\Train\benign (138).png,breast,benign
+./Breast scans\benign\Train\benign (139).png,breast,benign
+./Breast scans\benign\Train\benign (14).png,breast,benign
+./Breast scans\benign\Train\benign (140).png,breast,benign
+./Breast scans\benign\Train\benign (141).png,breast,benign
+./Breast scans\benign\Train\benign (142).png,breast,benign
+./Breast scans\benign\Train\benign (143).png,breast,benign
+./Breast scans\benign\Train\benign (144).png,breast,benign
+./Breast scans\benign\Train\benign (145).png,breast,benign
+./Breast scans\benign\Train\benign (146).png,breast,benign
+./Breast scans\benign\Train\benign (147).png,breast,benign
+./Breast scans\benign\Train\benign (148).png,breast,benign
+./Breast scans\benign\Train\benign (149).png,breast,benign
+./Breast scans\benign\Train\benign (15).png,breast,benign
+./Breast scans\benign\Train\benign (150).png,breast,benign
+./Breast scans\benign\Train\benign (151).png,breast,benign
+./Breast scans\benign\Train\benign (152).png,breast,benign
+./Breast scans\benign\Train\benign (153).png,breast,benign
+./Breast scans\benign\Train\benign (154).png,breast,benign
+./Breast scans\benign\Train\benign (155).png,breast,benign
+./Breast scans\benign\Train\benign (156).png,breast,benign
+./Breast scans\benign\Train\benign (157).png,breast,benign
+./Breast scans\benign\Train\benign (158).png,breast,benign
+./Breast scans\benign\Train\benign (159).png,breast,benign
+./Breast scans\benign\Train\benign (16).png,breast,benign
+./Breast scans\benign\Train\benign (160).png,breast,benign
+./Breast scans\benign\Train\benign (161).png,breast,benign
+./Breast scans\benign\Train\benign (162).png,breast,benign
+./Breast scans\benign\Train\benign (163).png,breast,benign
+./Breast scans\benign\Train\benign (164).png,breast,benign
+./Breast scans\benign\Train\benign (165).png,breast,benign
+./Breast scans\benign\Train\benign (166).png,breast,benign
+./Breast scans\benign\Train\benign (167).png,breast,benign
+./Breast scans\benign\Train\benign (168).png,breast,benign
+./Breast scans\benign\Train\benign (169).png,breast,benign
+./Breast scans\benign\Train\benign (17).png,breast,benign
+./Breast scans\benign\Train\benign (170).png,breast,benign
+./Breast scans\benign\Train\benign (171).png,breast,benign
+./Breast scans\benign\Train\benign (172).png,breast,benign
+./Breast scans\benign\Train\benign (173).png,breast,benign
+./Breast scans\benign\Train\benign (174).png,breast,benign
+./Breast scans\benign\Train\benign (175).png,breast,benign
+./Breast scans\benign\Train\benign (176).png,breast,benign
+./Breast scans\benign\Train\benign (177).png,breast,benign
+./Breast scans\benign\Train\benign (178).png,breast,benign
+./Breast scans\benign\Train\benign (179).png,breast,benign
+./Breast scans\benign\Train\benign (18).png,breast,benign
+./Breast scans\benign\Train\benign (180).png,breast,benign
+./Breast scans\benign\Train\benign (181).png,breast,benign
+./Breast scans\benign\Train\benign (182).png,breast,benign
+./Breast scans\benign\Train\benign (183).png,breast,benign
+./Breast scans\benign\Train\benign (184).png,breast,benign
+./Breast scans\benign\Train\benign (185).png,breast,benign
+./Breast scans\benign\Train\benign (186).png,breast,benign
+./Breast scans\benign\Train\benign (187).png,breast,benign
+./Breast scans\benign\Train\benign (188).png,breast,benign
+./Breast scans\benign\Train\benign (189).png,breast,benign
+./Breast scans\benign\Train\benign (19).png,breast,benign
+./Breast scans\benign\Train\benign (190).png,breast,benign
+./Breast scans\benign\Train\benign (191).png,breast,benign
+./Breast scans\benign\Train\benign (192).png,breast,benign
+./Breast scans\benign\Train\benign (193).png,breast,benign
+./Breast scans\benign\Train\benign (194).png,breast,benign
+./Breast scans\benign\Train\benign (195).png,breast,benign
+./Breast scans\benign\Train\benign (196).png,breast,benign
+./Breast scans\benign\Train\benign (197).png,breast,benign
+./Breast scans\benign\Train\benign (198).png,breast,benign
+./Breast scans\benign\Train\benign (199).png,breast,benign
+./Breast scans\benign\Train\benign (2).png,breast,benign
+./Breast scans\benign\Train\benign (20).png,breast,benign
+./Breast scans\benign\Train\benign (200).png,breast,benign
+./Breast scans\benign\Train\benign (201).png,breast,benign
+./Breast scans\benign\Train\benign (202).png,breast,benign
+./Breast scans\benign\Train\benign (203).png,breast,benign
+./Breast scans\benign\Train\benign (204).png,breast,benign
+./Breast scans\benign\Train\benign (205).png,breast,benign
+./Breast scans\benign\Train\benign (206).png,breast,benign
+./Breast scans\benign\Train\benign (207).png,breast,benign
+./Breast scans\benign\Train\benign (208).png,breast,benign
+./Breast scans\benign\Train\benign (209).png,breast,benign
+./Breast scans\benign\Train\benign (21).png,breast,benign
+./Breast scans\benign\Train\benign (210).png,breast,benign
+./Breast scans\benign\Train\benign (211).png,breast,benign
+./Breast scans\benign\Train\benign (212).png,breast,benign
+./Breast scans\benign\Train\benign (213).png,breast,benign
+./Breast scans\benign\Train\benign (214).png,breast,benign
+./Breast scans\benign\Train\benign (215).png,breast,benign
+./Breast scans\benign\Train\benign (216).png,breast,benign
+./Breast scans\benign\Train\benign (217).png,breast,benign
+./Breast scans\benign\Train\benign (218).png,breast,benign
+./Breast scans\benign\Train\benign (219).png,breast,benign
+./Breast scans\benign\Train\benign (22).png,breast,benign
+./Breast scans\benign\Train\benign (220).png,breast,benign
+./Breast scans\benign\Train\benign (221).png,breast,benign
+./Breast scans\benign\Train\benign (222).png,breast,benign
+./Breast scans\benign\Train\benign (223).png,breast,benign
+./Breast scans\benign\Train\benign (224).png,breast,benign
+./Breast scans\benign\Train\benign (225).png,breast,benign
+./Breast scans\benign\Train\benign (226).png,breast,benign
+./Breast scans\benign\Train\benign (227).png,breast,benign
+./Breast scans\benign\Train\benign (228).png,breast,benign
+./Breast scans\benign\Train\benign (229).png,breast,benign
+./Breast scans\benign\Train\benign (23).png,breast,benign
+./Breast scans\benign\Train\benign (230).png,breast,benign
+./Breast scans\benign\Train\benign (231).png,breast,benign
+./Breast scans\benign\Train\benign (232).png,breast,benign
+./Breast scans\benign\Train\benign (233).png,breast,benign
+./Breast scans\benign\Train\benign (234).png,breast,benign
+./Breast scans\benign\Train\benign (235).png,breast,benign
+./Breast scans\benign\Train\benign (236).png,breast,benign
+./Breast scans\benign\Train\benign (237).png,breast,benign
+./Breast scans\benign\Train\benign (238).png,breast,benign
+./Breast scans\benign\Train\benign (239).png,breast,benign
+./Breast scans\benign\Train\benign (24).png,breast,benign
+./Breast scans\benign\Train\benign (240).png,breast,benign
+./Breast scans\benign\Train\benign (241).png,breast,benign
+./Breast scans\benign\Train\benign (242).png,breast,benign
+./Breast scans\benign\Train\benign (243).png,breast,benign
+./Breast scans\benign\Train\benign (244).png,breast,benign
+./Breast scans\benign\Train\benign (245).png,breast,benign
+./Breast scans\benign\Train\benign (246).png,breast,benign
+./Breast scans\benign\Train\benign (247).png,breast,benign
+./Breast scans\benign\Train\benign (248).png,breast,benign
+./Breast scans\benign\Train\benign (249).png,breast,benign
+./Breast scans\benign\Train\benign (25).png,breast,benign
+./Breast scans\benign\Train\benign (250).png,breast,benign
+./Breast scans\benign\Train\benign (251).png,breast,benign
+./Breast scans\benign\Train\benign (252).png,breast,benign
+./Breast scans\benign\Train\benign (253).png,breast,benign
+./Breast scans\benign\Train\benign (254).png,breast,benign
+./Breast scans\benign\Train\benign (255).png,breast,benign
+./Breast scans\benign\Train\benign (256).png,breast,benign
+./Breast scans\benign\Train\benign (257).png,breast,benign
+./Breast scans\benign\Train\benign (258).png,breast,benign
+./Breast scans\benign\Train\benign (259).png,breast,benign
+./Breast scans\benign\Train\benign (26).png,breast,benign
+./Breast scans\benign\Train\benign (260).png,breast,benign
+./Breast scans\benign\Train\benign (261).png,breast,benign
+./Breast scans\benign\Train\benign (262).png,breast,benign
+./Breast scans\benign\Train\benign (263).png,breast,benign
+./Breast scans\benign\Train\benign (264).png,breast,benign
+./Breast scans\benign\Train\benign (265).png,breast,benign
+./Breast scans\benign\Train\benign (266).png,breast,benign
+./Breast scans\benign\Train\benign (267).png,breast,benign
+./Breast scans\benign\Train\benign (268).png,breast,benign
+./Breast scans\benign\Train\benign (269).png,breast,benign
+./Breast scans\benign\Train\benign (27).png,breast,benign
+./Breast scans\benign\Train\benign (270).png,breast,benign
+./Breast scans\benign\Train\benign (271).png,breast,benign
+./Breast scans\benign\Train\benign (272).png,breast,benign
+./Breast scans\benign\Train\benign (273).png,breast,benign
+./Breast scans\benign\Train\benign (274).png,breast,benign
+./Breast scans\benign\Train\benign (275).png,breast,benign
+./Breast scans\benign\Train\benign (276).png,breast,benign
+./Breast scans\benign\Train\benign (277).png,breast,benign
+./Breast scans\benign\Train\benign (278).png,breast,benign
+./Breast scans\benign\Train\benign (279).png,breast,benign
+./Breast scans\benign\Train\benign (28).png,breast,benign
+./Breast scans\benign\Train\benign (280).png,breast,benign
+./Breast scans\benign\Train\benign (281).png,breast,benign
+./Breast scans\benign\Train\benign (282).png,breast,benign
+./Breast scans\benign\Train\benign (283).png,breast,benign
+./Breast scans\benign\Train\benign (284).png,breast,benign
+./Breast scans\benign\Train\benign (285).png,breast,benign
+./Breast scans\benign\Train\benign (286).png,breast,benign
+./Breast scans\benign\Train\benign (287).png,breast,benign
+./Breast scans\benign\Train\benign (288).png,breast,benign
+./Breast scans\benign\Train\benign (289).png,breast,benign
+./Breast scans\benign\Train\benign (29).png,breast,benign
+./Breast scans\benign\Train\benign (290).png,breast,benign
+./Breast scans\benign\Train\benign (291).png,breast,benign
+./Breast scans\benign\Train\benign (292).png,breast,benign
+./Breast scans\benign\Train\benign (293).png,breast,benign
+./Breast scans\benign\Train\benign (294).png,breast,benign
+./Breast scans\benign\Train\benign (295).png,breast,benign
+./Breast scans\benign\Train\benign (296).png,breast,benign
+./Breast scans\benign\Train\benign (297).png,breast,benign
+./Breast scans\benign\Train\benign (298).png,breast,benign
+./Breast scans\benign\Train\benign (299).png,breast,benign
+./Breast scans\benign\Train\benign (3).png,breast,benign
+./Breast scans\benign\Train\benign (30).png,breast,benign
+./Breast scans\benign\Train\benign (300).png,breast,benign
+./Breast scans\benign\Train\benign (301).png,breast,benign
+./Breast scans\benign\Train\benign (302).png,breast,benign
+./Breast scans\benign\Train\benign (303).png,breast,benign
+./Breast scans\benign\Train\benign (304).png,breast,benign
+./Breast scans\benign\Train\benign (305).png,breast,benign
+./Breast scans\benign\Train\benign (306).png,breast,benign
+./Breast scans\benign\Train\benign (307).png,breast,benign
+./Breast scans\benign\Train\benign (308).png,breast,benign
+./Breast scans\benign\Train\benign (309).png,breast,benign
+./Breast scans\benign\Train\benign (31).png,breast,benign
+./Breast scans\benign\Train\benign (310).png,breast,benign
+./Breast scans\benign\Train\benign (311).png,breast,benign
+./Breast scans\benign\Train\benign (312).png,breast,benign
+./Breast scans\benign\Train\benign (313).png,breast,benign
+./Breast scans\benign\Train\benign (314).png,breast,benign
+./Breast scans\benign\Train\benign (315).png,breast,benign
+./Breast scans\benign\Train\benign (316).png,breast,benign
+./Breast scans\benign\Train\benign (317).png,breast,benign
+./Breast scans\benign\Train\benign (318).png,breast,benign
+./Breast scans\benign\Train\benign (319).png,breast,benign
+./Breast scans\benign\Train\benign (32).png,breast,benign
+./Breast scans\benign\Train\benign (320).png,breast,benign
+./Breast scans\benign\Train\benign (321).png,breast,benign
+./Breast scans\benign\Train\benign (322).png,breast,benign
+./Breast scans\benign\Train\benign (323).png,breast,benign
+./Breast scans\benign\Train\benign (324).png,breast,benign
+./Breast scans\benign\Train\benign (325).png,breast,benign
+./Breast scans\benign\Train\benign (326).png,breast,benign
+./Breast scans\benign\Train\benign (327).png,breast,benign
+./Breast scans\benign\Train\benign (328).png,breast,benign
+./Breast scans\benign\Train\benign (329).png,breast,benign
+./Breast scans\benign\Train\benign (33).png,breast,benign
+./Breast scans\benign\Train\benign (330).png,breast,benign
+./Breast scans\benign\Train\benign (331).png,breast,benign
+./Breast scans\benign\Train\benign (332).png,breast,benign
+./Breast scans\benign\Train\benign (333).png,breast,benign
+./Breast scans\benign\Train\benign (334).png,breast,benign
+./Breast scans\benign\Train\benign (335).png,breast,benign
+./Breast scans\benign\Train\benign (336).png,breast,benign
+./Breast scans\benign\Train\benign (337).png,breast,benign
+./Breast scans\benign\Train\benign (338).png,breast,benign
+./Breast scans\benign\Train\benign (339).png,breast,benign
+./Breast scans\benign\Train\benign (34).png,breast,benign
+./Breast scans\benign\Train\benign (340).png,breast,benign
+./Breast scans\benign\Train\benign (341).png,breast,benign
+./Breast scans\benign\Train\benign (342).png,breast,benign
+./Breast scans\benign\Train\benign (343).png,breast,benign
+./Breast scans\benign\Train\benign (344).png,breast,benign
+./Breast scans\benign\Train\benign (345).png,breast,benign
+./Breast scans\benign\Train\benign (346).png,breast,benign
+./Breast scans\benign\Train\benign (347).png,breast,benign
+./Breast scans\benign\Train\benign (348).png,breast,benign
+./Breast scans\benign\Train\benign (349).png,breast,benign
+./Breast scans\benign\Train\benign (35).png,breast,benign
+./Breast scans\benign\Train\benign (350).png,breast,benign
+./Breast scans\benign\Train\benign (351).png,breast,benign
+./Breast scans\benign\Train\benign (352).png,breast,benign
+./Breast scans\benign\Train\benign (353).png,breast,benign
+./Breast scans\benign\Train\benign (354).png,breast,benign
+./Breast scans\benign\Train\benign (355).png,breast,benign
+./Breast scans\benign\Train\benign (356).png,breast,benign
+./Breast scans\benign\Train\benign (357).png,breast,benign
+./Breast scans\benign\Train\benign (358).png,breast,benign
+./Breast scans\benign\Train\benign (359).png,breast,benign
+./Breast scans\benign\Train\benign (36).png,breast,benign
+./Breast scans\benign\Train\benign (360).png,breast,benign
+./Breast scans\benign\Train\benign (361).png,breast,benign
+./Breast scans\benign\Train\benign (362).png,breast,benign
+./Breast scans\benign\Train\benign (363).png,breast,benign
+./Breast scans\benign\Train\benign (364).png,breast,benign
+./Breast scans\benign\Train\benign (365).png,breast,benign
+./Breast scans\benign\Train\benign (366).png,breast,benign
+./Breast scans\benign\Train\benign (367).png,breast,benign
+./Breast scans\benign\Train\benign (368).png,breast,benign
+./Breast scans\benign\Train\benign (369).png,breast,benign
+./Breast scans\benign\Train\benign (37).png,breast,benign
+./Breast scans\benign\Train\benign (370).png,breast,benign
+./Breast scans\benign\Train\benign (371).png,breast,benign
+./Breast scans\benign\Train\benign (372).png,breast,benign
+./Breast scans\benign\Train\benign (373).png,breast,benign
+./Breast scans\benign\Train\benign (374).png,breast,benign
+./Breast scans\benign\Train\benign (375).png,breast,benign
+./Breast scans\benign\Train\benign (376).png,breast,benign
+./Breast scans\benign\Train\benign (377).png,breast,benign
+./Breast scans\benign\Train\benign (378).png,breast,benign
+./Breast scans\benign\Train\benign (379).png,breast,benign
+./Breast scans\benign\Train\benign (38).png,breast,benign
+./Breast scans\benign\Train\benign (380).png,breast,benign
+./Breast scans\benign\Train\benign (381).png,breast,benign
+./Breast scans\benign\Train\benign (382).png,breast,benign
+./Breast scans\benign\Train\benign (383).png,breast,benign
+./Breast scans\benign\Train\benign (384).png,breast,benign
+./Breast scans\benign\Train\benign (385).png,breast,benign
+./Breast scans\benign\Train\benign (386).png,breast,benign
+./Breast scans\benign\Train\benign (387).png,breast,benign
+./Breast scans\benign\Train\benign (388).png,breast,benign
+./Breast scans\benign\Train\benign (389).png,breast,benign
+./Breast scans\benign\Train\benign (39).png,breast,benign
+./Breast scans\benign\Train\benign (390).png,breast,benign
+./Breast scans\benign\Train\benign (391).png,breast,benign
+./Breast scans\benign\Train\benign (392).png,breast,benign
+./Breast scans\benign\Train\benign (393).png,breast,benign
+./Breast scans\benign\Train\benign (394).png,breast,benign
+./Breast scans\benign\Train\benign (395).png,breast,benign
+./Breast scans\benign\Train\benign (396).png,breast,benign
+./Breast scans\benign\Train\benign (397).png,breast,benign
+./Breast scans\benign\Train\benign (398).png,breast,benign
+./Breast scans\benign\Train\benign (4).png,breast,benign
+./Breast scans\benign\Train\benign (40).png,breast,benign
+./Breast scans\benign\Train\benign (41).png,breast,benign
+./Breast scans\benign\Train\benign (42).png,breast,benign
+./Breast scans\benign\Train\benign (43).png,breast,benign
+./Breast scans\benign\Train\benign (44).png,breast,benign
+./Breast scans\benign\Train\benign (45).png,breast,benign
+./Breast scans\benign\Train\benign (46).png,breast,benign
+./Breast scans\benign\Train\benign (47).png,breast,benign
+./Breast scans\benign\Train\benign (48).png,breast,benign
+./Breast scans\benign\Train\benign (49).png,breast,benign
+./Breast scans\benign\Train\benign (5).png,breast,benign
+./Breast scans\benign\Train\benign (50).png,breast,benign
+./Breast scans\benign\Train\benign (51).png,breast,benign
+./Breast scans\benign\Train\benign (52).png,breast,benign
+./Breast scans\benign\Train\benign (53).png,breast,benign
+./Breast scans\benign\Train\benign (54).png,breast,benign
+./Breast scans\benign\Train\benign (55).png,breast,benign
+./Breast scans\benign\Train\benign (56).png,breast,benign
+./Breast scans\benign\Train\benign (57).png,breast,benign
+./Breast scans\benign\Train\benign (58).png,breast,benign
+./Breast scans\benign\Train\benign (59).png,breast,benign
+./Breast scans\benign\Train\benign (6).png,breast,benign
+./Breast scans\benign\Train\benign (60).png,breast,benign
+./Breast scans\benign\Train\benign (61).png,breast,benign
+./Breast scans\benign\Train\benign (62).png,breast,benign
+./Breast scans\benign\Train\benign (63).png,breast,benign
+./Breast scans\benign\Train\benign (64).png,breast,benign
+./Breast scans\benign\Train\benign (65).png,breast,benign
+./Breast scans\benign\Train\benign (66).png,breast,benign
+./Breast scans\benign\Train\benign (67).png,breast,benign
+./Breast scans\benign\Train\benign (68).png,breast,benign
+./Breast scans\benign\Train\benign (69).png,breast,benign
+./Breast scans\benign\Train\benign (7).png,breast,benign
+./Breast scans\benign\Train\benign (70).png,breast,benign
+./Breast scans\benign\Train\benign (71).png,breast,benign
+./Breast scans\benign\Train\benign (72).png,breast,benign
+./Breast scans\benign\Train\benign (73).png,breast,benign
+./Breast scans\benign\Train\benign (74).png,breast,benign
+./Breast scans\benign\Train\benign (75).png,breast,benign
+./Breast scans\benign\Train\benign (76).png,breast,benign
+./Breast scans\benign\Train\benign (77).png,breast,benign
+./Breast scans\benign\Train\benign (78).png,breast,benign
+./Breast scans\benign\Train\benign (79).png,breast,benign
+./Breast scans\benign\Train\benign (8).png,breast,benign
+./Breast scans\benign\Train\benign (80).png,breast,benign
+./Breast scans\benign\Train\benign (81).png,breast,benign
+./Breast scans\benign\Train\benign (82).png,breast,benign
+./Breast scans\benign\Train\benign (83).png,breast,benign
+./Breast scans\benign\Train\benign (84).png,breast,benign
+./Breast scans\benign\Train\benign (85).png,breast,benign
+./Breast scans\benign\Train\benign (86).png,breast,benign
+./Breast scans\benign\Train\benign (87).png,breast,benign
+./Breast scans\benign\Train\benign (88).png,breast,benign
+./Breast scans\benign\Train\benign (89).png,breast,benign
+./Breast scans\benign\Train\benign (9).png,breast,benign
+./Breast scans\benign\Train\benign (90).png,breast,benign
+./Breast scans\benign\Train\benign (91).png,breast,benign
+./Breast scans\benign\Train\benign (92).png,breast,benign
+./Breast scans\benign\Train\benign (93).png,breast,benign
+./Breast scans\benign\Train\benign (94).png,breast,benign
+./Breast scans\benign\Train\benign (95).png,breast,benign
+./Breast scans\benign\Train\benign (96).png,breast,benign
+./Breast scans\benign\Train\benign (97).png,breast,benign
+./Breast scans\benign\Train\benign (98).png,breast,benign
+./Breast scans\benign\Train\benign (99).png,breast,benign
+./Breast scans\malignant\Train\malignant (1).png,breast,malignant
+./Breast scans\malignant\Train\malignant (10).png,breast,malignant
+./Breast scans\malignant\Train\malignant (100).png,breast,malignant
+./Breast scans\malignant\Train\malignant (101).png,breast,malignant
+./Breast scans\malignant\Train\malignant (102).png,breast,malignant
+./Breast scans\malignant\Train\malignant (103).png,breast,malignant
+./Breast scans\malignant\Train\malignant (104).png,breast,malignant
+./Breast scans\malignant\Train\malignant (105).png,breast,malignant
+./Breast scans\malignant\Train\malignant (106).png,breast,malignant
+./Breast scans\malignant\Train\malignant (107).png,breast,malignant
+./Breast scans\malignant\Train\malignant (108).png,breast,malignant
+./Breast scans\malignant\Train\malignant (109).png,breast,malignant
+./Breast scans\malignant\Train\malignant (11).png,breast,malignant
+./Breast scans\malignant\Train\malignant (110).png,breast,malignant
+./Breast scans\malignant\Train\malignant (111).png,breast,malignant
+./Breast scans\malignant\Train\malignant (112).png,breast,malignant
+./Breast scans\malignant\Train\malignant (113).png,breast,malignant
+./Breast scans\malignant\Train\malignant (114).png,breast,malignant
+./Breast scans\malignant\Train\malignant (115).png,breast,malignant
+./Breast scans\malignant\Train\malignant (116).png,breast,malignant
+./Breast scans\malignant\Train\malignant (117).png,breast,malignant
+./Breast scans\malignant\Train\malignant (118).png,breast,malignant
+./Breast scans\malignant\Train\malignant (119).png,breast,malignant
+./Breast scans\malignant\Train\malignant (12).png,breast,malignant
+./Breast scans\malignant\Train\malignant (120).png,breast,malignant
+./Breast scans\malignant\Train\malignant (121).png,breast,malignant
+./Breast scans\malignant\Train\malignant (122).png,breast,malignant
+./Breast scans\malignant\Train\malignant (123).png,breast,malignant
+./Breast scans\malignant\Train\malignant (124).png,breast,malignant
+./Breast scans\malignant\Train\malignant (125).png,breast,malignant
+./Breast scans\malignant\Train\malignant (126).png,breast,malignant
+./Breast scans\malignant\Train\malignant (127).png,breast,malignant
+./Breast scans\malignant\Train\malignant (128).png,breast,malignant
+./Breast scans\malignant\Train\malignant (129).png,breast,malignant
+./Breast scans\malignant\Train\malignant (13).png,breast,malignant
+./Breast scans\malignant\Train\malignant (130).png,breast,malignant
+./Breast scans\malignant\Train\malignant (131).png,breast,malignant
+./Breast scans\malignant\Train\malignant (132).png,breast,malignant
+./Breast scans\malignant\Train\malignant (133).png,breast,malignant
+./Breast scans\malignant\Train\malignant (134).png,breast,malignant
+./Breast scans\malignant\Train\malignant (135).png,breast,malignant
+./Breast scans\malignant\Train\malignant (136).png,breast,malignant
+./Breast scans\malignant\Train\malignant (137).png,breast,malignant
+./Breast scans\malignant\Train\malignant (138).png,breast,malignant
+./Breast scans\malignant\Train\malignant (139).png,breast,malignant
+./Breast scans\malignant\Train\malignant (14).png,breast,malignant
+./Breast scans\malignant\Train\malignant (140).png,breast,malignant
+./Breast scans\malignant\Train\malignant (141).png,breast,malignant
+./Breast scans\malignant\Train\malignant (142).png,breast,malignant
+./Breast scans\malignant\Train\malignant (143).png,breast,malignant
+./Breast scans\malignant\Train\malignant (144).png,breast,malignant
+./Breast scans\malignant\Train\malignant (145).png,breast,malignant
+./Breast scans\malignant\Train\malignant (146).png,breast,malignant
+./Breast scans\malignant\Train\malignant (147).png,breast,malignant
+./Breast scans\malignant\Train\malignant (148).png,breast,malignant
+./Breast scans\malignant\Train\malignant (149).png,breast,malignant
+./Breast scans\malignant\Train\malignant (15).png,breast,malignant
+./Breast scans\malignant\Train\malignant (150).png,breast,malignant
+./Breast scans\malignant\Train\malignant (151).png,breast,malignant
+./Breast scans\malignant\Train\malignant (152).png,breast,malignant
+./Breast scans\malignant\Train\malignant (153).png,breast,malignant
+./Breast scans\malignant\Train\malignant (154).png,breast,malignant
+./Breast scans\malignant\Train\malignant (155).png,breast,malignant
+./Breast scans\malignant\Train\malignant (156).png,breast,malignant
+./Breast scans\malignant\Train\malignant (157).png,breast,malignant
+./Breast scans\malignant\Train\malignant (158).png,breast,malignant
+./Breast scans\malignant\Train\malignant (159).png,breast,malignant
+./Breast scans\malignant\Train\malignant (16).png,breast,malignant
+./Breast scans\malignant\Train\malignant (160).png,breast,malignant
+./Breast scans\malignant\Train\malignant (161).png,breast,malignant
+./Breast scans\malignant\Train\malignant (162).png,breast,malignant
+./Breast scans\malignant\Train\malignant (163).png,breast,malignant
+./Breast scans\malignant\Train\malignant (164).png,breast,malignant
+./Breast scans\malignant\Train\malignant (165).png,breast,malignant
+./Breast scans\malignant\Train\malignant (166).png,breast,malignant
+./Breast scans\malignant\Train\malignant (167).png,breast,malignant
+./Breast scans\malignant\Train\malignant (168).png,breast,malignant
+./Breast scans\malignant\Train\malignant (169).png,breast,malignant
+./Breast scans\malignant\Train\malignant (17).png,breast,malignant
+./Breast scans\malignant\Train\malignant (170).png,breast,malignant
+./Breast scans\malignant\Train\malignant (171).png,breast,malignant
+./Breast scans\malignant\Train\malignant (172).png,breast,malignant
+./Breast scans\malignant\Train\malignant (173).png,breast,malignant
+./Breast scans\malignant\Train\malignant (174).png,breast,malignant
+./Breast scans\malignant\Train\malignant (175).png,breast,malignant
+./Breast scans\malignant\Train\malignant (176).png,breast,malignant
+./Breast scans\malignant\Train\malignant (177).png,breast,malignant
+./Breast scans\malignant\Train\malignant (178).png,breast,malignant
+./Breast scans\malignant\Train\malignant (179).png,breast,malignant
+./Breast scans\malignant\Train\malignant (18).png,breast,malignant
+./Breast scans\malignant\Train\malignant (180).png,breast,malignant
+./Breast scans\malignant\Train\malignant (19).png,breast,malignant
+./Breast scans\malignant\Train\malignant (2).png,breast,malignant
+./Breast scans\malignant\Train\malignant (20).png,breast,malignant
+./Breast scans\malignant\Train\malignant (21).png,breast,malignant
+./Breast scans\malignant\Train\malignant (22).png,breast,malignant
+./Breast scans\malignant\Train\malignant (23).png,breast,malignant
+./Breast scans\malignant\Train\malignant (24).png,breast,malignant
+./Breast scans\malignant\Train\malignant (25).png,breast,malignant
+./Breast scans\malignant\Train\malignant (26).png,breast,malignant
+./Breast scans\malignant\Train\malignant (27).png,breast,malignant
+./Breast scans\malignant\Train\malignant (28).png,breast,malignant
+./Breast scans\malignant\Train\malignant (29).png,breast,malignant
+./Breast scans\malignant\Train\malignant (3).png,breast,malignant
+./Breast scans\malignant\Train\malignant (30).png,breast,malignant
+./Breast scans\malignant\Train\malignant (31).png,breast,malignant
+./Breast scans\malignant\Train\malignant (32).png,breast,malignant
+./Breast scans\malignant\Train\malignant (33).png,breast,malignant
+./Breast scans\malignant\Train\malignant (34).png,breast,malignant
+./Breast scans\malignant\Train\malignant (35).png,breast,malignant
+./Breast scans\malignant\Train\malignant (36).png,breast,malignant
+./Breast scans\malignant\Train\malignant (37).png,breast,malignant
+./Breast scans\malignant\Train\malignant (38).png,breast,malignant
+./Breast scans\malignant\Train\malignant (39).png,breast,malignant
+./Breast scans\malignant\Train\malignant (4).png,breast,malignant
+./Breast scans\malignant\Train\malignant (40).png,breast,malignant
+./Breast scans\malignant\Train\malignant (41).png,breast,malignant
+./Breast scans\malignant\Train\malignant (42).png,breast,malignant
+./Breast scans\malignant\Train\malignant (43).png,breast,malignant
+./Breast scans\malignant\Train\malignant (44).png,breast,malignant
+./Breast scans\malignant\Train\malignant (45).png,breast,malignant
+./Breast scans\malignant\Train\malignant (46).png,breast,malignant
+./Breast scans\malignant\Train\malignant (47).png,breast,malignant
+./Breast scans\malignant\Train\malignant (48).png,breast,malignant
+./Breast scans\malignant\Train\malignant (49).png,breast,malignant
+./Breast scans\malignant\Train\malignant (5).png,breast,malignant
+./Breast scans\malignant\Train\malignant (50).png,breast,malignant
+./Breast scans\malignant\Train\malignant (51).png,breast,malignant
+./Breast scans\malignant\Train\malignant (52).png,breast,malignant
+./Breast scans\malignant\Train\malignant (53).png,breast,malignant
+./Breast scans\malignant\Train\malignant (54).png,breast,malignant
+./Breast scans\malignant\Train\malignant (55).png,breast,malignant
+./Breast scans\malignant\Train\malignant (56).png,breast,malignant
+./Breast scans\malignant\Train\malignant (57).png,breast,malignant
+./Breast scans\malignant\Train\malignant (58).png,breast,malignant
+./Breast scans\malignant\Train\malignant (59).png,breast,malignant
+./Breast scans\malignant\Train\malignant (6).png,breast,malignant
+./Breast scans\malignant\Train\malignant (60).png,breast,malignant
+./Breast scans\malignant\Train\malignant (61).png,breast,malignant
+./Breast scans\malignant\Train\malignant (62).png,breast,malignant
+./Breast scans\malignant\Train\malignant (63).png,breast,malignant
+./Breast scans\malignant\Train\malignant (64).png,breast,malignant
+./Breast scans\malignant\Train\malignant (65).png,breast,malignant
+./Breast scans\malignant\Train\malignant (66).png,breast,malignant
+./Breast scans\malignant\Train\malignant (67).png,breast,malignant
+./Breast scans\malignant\Train\malignant (68).png,breast,malignant
+./Breast scans\malignant\Train\malignant (69).png,breast,malignant
+./Breast scans\malignant\Train\malignant (7).png,breast,malignant
+./Breast scans\malignant\Train\malignant (70).png,breast,malignant
+./Breast scans\malignant\Train\malignant (71).png,breast,malignant
+./Breast scans\malignant\Train\malignant (72).png,breast,malignant
+./Breast scans\malignant\Train\malignant (73).png,breast,malignant
+./Breast scans\malignant\Train\malignant (74).png,breast,malignant
+./Breast scans\malignant\Train\malignant (75).png,breast,malignant
+./Breast scans\malignant\Train\malignant (76).png,breast,malignant
+./Breast scans\malignant\Train\malignant (77).png,breast,malignant
+./Breast scans\malignant\Train\malignant (78).png,breast,malignant
+./Breast scans\malignant\Train\malignant (79).png,breast,malignant
+./Breast scans\malignant\Train\malignant (8).png,breast,malignant
+./Breast scans\malignant\Train\malignant (80).png,breast,malignant
+./Breast scans\malignant\Train\malignant (81).png,breast,malignant
+./Breast scans\malignant\Train\malignant (82).png,breast,malignant
+./Breast scans\malignant\Train\malignant (83).png,breast,malignant
+./Breast scans\malignant\Train\malignant (84).png,breast,malignant
+./Breast scans\malignant\Train\malignant (85).png,breast,malignant
+./Breast scans\malignant\Train\malignant (86).png,breast,malignant
+./Breast scans\malignant\Train\malignant (87).png,breast,malignant
+./Breast scans\malignant\Train\malignant (88).png,breast,malignant
+./Breast scans\malignant\Train\malignant (89).png,breast,malignant
+./Breast scans\malignant\Train\malignant (9).png,breast,malignant
+./Breast scans\malignant\Train\malignant (90).png,breast,malignant
+./Breast scans\malignant\Train\malignant (91).png,breast,malignant
+./Breast scans\malignant\Train\malignant (92).png,breast,malignant
+./Breast scans\malignant\Train\malignant (93).png,breast,malignant
+./Breast scans\malignant\Train\malignant (94).png,breast,malignant
+./Breast scans\malignant\Train\malignant (95).png,breast,malignant
+./Breast scans\malignant\Train\malignant (96).png,breast,malignant
+./Breast scans\malignant\Train\malignant (97).png,breast,malignant
+./Breast scans\malignant\Train\malignant (98).png,breast,malignant
+./Breast scans\malignant\Train\malignant (99).png,breast,malignant
+./Breast scans/normal\Train\normal (1).png,breast,normal
+./Breast scans/normal\Train\normal (10).png,breast,normal
+./Breast scans/normal\Train\normal (100).png,breast,normal
+./Breast scans/normal\Train\normal (101).png,breast,normal
+./Breast scans/normal\Train\normal (102).png,breast,normal
+./Breast scans/normal\Train\normal (103).png,breast,normal
+./Breast scans/normal\Train\normal (11).png,breast,normal
+./Breast scans/normal\Train\normal (12).png,breast,normal
+./Breast scans/normal\Train\normal (13).png,breast,normal
+./Breast scans/normal\Train\normal (14).png,breast,normal
+./Breast scans/normal\Train\normal (15).png,breast,normal
+./Breast scans/normal\Train\normal (16).png,breast,normal
+./Breast scans/normal\Train\normal (17).png,breast,normal
+./Breast scans/normal\Train\normal (18).png,breast,normal
+./Breast scans/normal\Train\normal (19).png,breast,normal
+./Breast scans/normal\Train\normal (2).png,breast,normal
+./Breast scans/normal\Train\normal (20).png,breast,normal
+./Breast scans/normal\Train\normal (21).png,breast,normal
+./Breast scans/normal\Train\normal (22).png,breast,normal
+./Breast scans/normal\Train\normal (23).png,breast,normal
+./Breast scans/normal\Train\normal (24).png,breast,normal
+./Breast scans/normal\Train\normal (25).png,breast,normal
+./Breast scans/normal\Train\normal (26).png,breast,normal
+./Breast scans/normal\Train\normal (27).png,breast,normal
+./Breast scans/normal\Train\normal (28).png,breast,normal
+./Breast scans/normal\Train\normal (29).png,breast,normal
+./Breast scans/normal\Train\normal (3).png,breast,normal
+./Breast scans/normal\Train\normal (30).png,breast,normal
+./Breast scans/normal\Train\normal (31).png,breast,normal
+./Breast scans/normal\Train\normal (32).png,breast,normal
+./Breast scans/normal\Train\normal (33).png,breast,normal
+./Breast scans/normal\Train\normal (34).png,breast,normal
+./Breast scans/normal\Train\normal (35).png,breast,normal
+./Breast scans/normal\Train\normal (36).png,breast,normal
+./Breast scans/normal\Train\normal (37).png,breast,normal
+./Breast scans/normal\Train\normal (38).png,breast,normal
+./Breast scans/normal\Train\normal (39).png,breast,normal
+./Breast scans/normal\Train\normal (4).png,breast,normal
+./Breast scans/normal\Train\normal (40).png,breast,normal
+./Breast scans/normal\Train\normal (41).png,breast,normal
+./Breast scans/normal\Train\normal (42).png,breast,normal
+./Breast scans/normal\Train\normal (43).png,breast,normal
+./Breast scans/normal\Train\normal (44).png,breast,normal
+./Breast scans/normal\Train\normal (45).png,breast,normal
+./Breast scans/normal\Train\normal (46).png,breast,normal
+./Breast scans/normal\Train\normal (47).png,breast,normal
+./Breast scans/normal\Train\normal (48).png,breast,normal
+./Breast scans/normal\Train\normal (49).png,breast,normal
+./Breast scans/normal\Train\normal (5).png,breast,normal
+./Breast scans/normal\Train\normal (50).png,breast,normal
+./Breast scans/normal\Train\normal (51).png,breast,normal
+./Breast scans/normal\Train\normal (52).png,breast,normal
+./Breast scans/normal\Train\normal (53).png,breast,normal
+./Breast scans/normal\Train\normal (54).png,breast,normal
+./Breast scans/normal\Train\normal (55).png,breast,normal
+./Breast scans/normal\Train\normal (56).png,breast,normal
+./Breast scans/normal\Train\normal (57).png,breast,normal
+./Breast scans/normal\Train\normal (58).png,breast,normal
+./Breast scans/normal\Train\normal (59).png,breast,normal
+./Breast scans/normal\Train\normal (6).png,breast,normal
+./Breast scans/normal\Train\normal (60).png,breast,normal
+./Breast scans/normal\Train\normal (61).png,breast,normal
+./Breast scans/normal\Train\normal (62).png,breast,normal
+./Breast scans/normal\Train\normal (63).png,breast,normal
+./Breast scans/normal\Train\normal (64).png,breast,normal
+./Breast scans/normal\Train\normal (65).png,breast,normal
+./Breast scans/normal\Train\normal (66).png,breast,normal
+./Breast scans/normal\Train\normal (67).png,breast,normal
+./Breast scans/normal\Train\normal (68).png,breast,normal
+./Breast scans/normal\Train\normal (69).png,breast,normal
+./Breast scans/normal\Train\normal (7).png,breast,normal
+./Breast scans/normal\Train\normal (70).png,breast,normal
+./Breast scans/normal\Train\normal (71).png,breast,normal
+./Breast scans/normal\Train\normal (72).png,breast,normal
+./Breast scans/normal\Train\normal (73).png,breast,normal
+./Breast scans/normal\Train\normal (74).png,breast,normal
+./Breast scans/normal\Train\normal (75).png,breast,normal
+./Breast scans/normal\Train\normal (76).png,breast,normal
+./Breast scans/normal\Train\normal (77).png,breast,normal
+./Breast scans/normal\Train\normal (78).png,breast,normal
+./Breast scans/normal\Train\normal (79).png,breast,normal
+./Breast scans/normal\Train\normal (8).png,breast,normal
+./Breast scans/normal\Train\normal (80).png,breast,normal
+./Breast scans/normal\Train\normal (81).png,breast,normal
+./Breast scans/normal\Train\normal (82).png,breast,normal
+./Breast scans/normal\Train\normal (83).png,breast,normal
+./Breast scans/normal\Train\normal (84).png,breast,normal
+./Breast scans/normal\Train\normal (85).png,breast,normal
+./Breast scans/normal\Train\normal (86).png,breast,normal
+./Breast scans/normal\Train\normal (87).png,breast,normal
+./Breast scans/normal\Train\normal (88).png,breast,normal
+./Breast scans/normal\Train\normal (89).png,breast,normal
+./Breast scans/normal\Train\normal (9).png,breast,normal
+./Breast scans/normal\Train\normal (90).png,breast,normal
+./Breast scans/normal\Train\normal (91).png,breast,normal
+./Breast scans/normal\Train\normal (92).png,breast,normal
+./Breast scans/normal\Train\normal (93).png,breast,normal
+./Breast scans/normal\Train\normal (94).png,breast,normal
+./Breast scans/normal\Train\normal (95).png,breast,normal
+./Breast scans/normal\Train\normal (96).png,breast,normal
+./Breast scans/normal\Train\normal (97).png,breast,normal
+./Breast scans/normal\Train\normal (98).png,breast,normal
+./Breast scans/normal\Train\normal (99).png,breast,normal
